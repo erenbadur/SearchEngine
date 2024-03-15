@@ -1,0 +1,1 @@
+This project consists of a a search engine that takes a query as user input, preprocesses six txt files, and returns the file names that contain all the words with the corresponding counts. The search engine was implemented with the use of a custom written AVL Search Tree class.
